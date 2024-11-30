@@ -1,0 +1,67 @@
+{
+          "Shop": {
+                  "name": "Vin's Artistry Online Store",
+                  "Playstations": [
+                          {
+                                  "name": "Acrylic Paints",
+                                  "description": "High-quality acrylic paints perfect for a range of artistic projects, providing smooth coverage and vibrant colors.",
+                                  "price": "₱1,500.00",
+                                  "image": "Acrylic.jpeg"
+              },
+                          {
+                                  "name": "Blending Tools",
+                                  "description": "Essential tools for blending and smoothing different mediums like pastels, charcoal, and pencil.",
+                                  "price": "₱500.00",
+                                  "image": "blending.jpeg"
+              },
+                          {
+                                  "name": "Canvas",
+                                  "description": "Sturdy and durable canvas, ideal for oil, acrylic, and mixed media painting.",
+                                  "price": "₱2,000.00",
+                                  "image": "canvas.jpeg"
+              },
+                          {
+                                  "name": "Graphite Pencils",
+                                  "description": "Premium graphite pencils for detailed sketches and fine lines, available in multiple hardness levels.",
+                                  "price": "₱350.00",
+                                  "image": "graphite.jpeg"
+              },
+                          {
+                                  "name": "Charcoal",
+                                  "description": "Soft charcoal sticks for rich, dark shading and texture, perfect for expressive drawings.",
+                                  "price": "₱450.00",
+                                  "image": "charcoal.jpeg"
+              },
+                          {
+                                  "name": "Palette Knife",
+                                  "description": "Versatile palette knives for mixing paints or applying thick textures in oil and acrylic painting.",
+                                  "price": "₱700.00",
+                                  "image": "knife.jpg"
+              },
+                          {
+                                  "name": "Markers",
+                                  "description": "Set of high-quality markers that provide vibrant and consistent color for various art techniques.",
+                                  "price": "₱900.00",
+                                  "image": "marker.jpeg"
+              },
+                          {
+                                  "name": "Oil Paints",
+                                  "description": "Rich oil paints with a smooth consistency, perfect for creating deep, vibrant artworks.",
+                                  "price": "₱2,500.00",
+                                  "image": "oil.jpeg"
+              },
+                          {
+                                  "name": "Paintbrush Set",
+                                  "description": "Complete set of brushes in various shapes and sizes for all types of painting techniques.",
+                                  "price": "₱800.00",
+                                  "image": "paintbrush.jpeg"
+              },
+                          {
+                                  "name": "Sketchpad",
+                                  "description": "High-quality sketchpad with textured paper, suitable for a variety of drawing mediums.",
+                                  "price": "₱350.00",
+                                  "image": "sketchpad.jpeg"
+              }
+          ]
+          }
+  }
